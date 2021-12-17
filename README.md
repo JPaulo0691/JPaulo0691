@@ -2,7 +2,7 @@
 
       
     👀 Sou interessado em Desenvolvimento WEB
-    🌱 Atualmente estou estudando HTML, CSS, JavaScript, Python, Django, JAVA e Spring
+    🌱 Atualmente estou estudando HTML, CSS, Python, Django, JAVA e Spring
 
 
  <div>
