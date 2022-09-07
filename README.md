@@ -1,7 +1,8 @@
 ## Hi! My name is João Paulo
 
       
-     🌱 Nowadays I'm working with some technologies like Oracle Apex, PL/SQL, Spring and etc. For me code is a superpower that give to me, the opportunity to build extraordinary thing and I love this feeling.   
+     🌱 Nowadays I'm working with some technologies like Oracle Apex, PL/SQL, Spring and etc. 
+      For me code is a superpower that give to me, the opportunity to build extraordinary thing and I love this feeling.   
 
 
  <div>
