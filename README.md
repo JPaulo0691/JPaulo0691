@@ -1,8 +1,7 @@
-## Olá! Meu nome é João Paulo
+## Hi! My name is João Paulo
 
       
-    👀 Sou interessado em Desenvolvimento WEB
-    🌱 Atualmente estou estudando HTML, CSS, JAVA e Spring
+     🌱 Nowadays I'm working with some technologies like Oracle Apex, PL/SQL, Spring and etc. For me code is a superpower that give to me, the opportunity to build extraordinary thing and I love this feeling.   
 
 
  <div>
