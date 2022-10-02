@@ -1,7 +1,7 @@
 ## Hi! My name is João Paulo
 
       
-     🌱 Nowadays I'm working with some technologies like Oracle Apex, PL/SQL, Spring and etc. 
+     🌱 Nowadays I'm working with some technologies like Oracle Apex, PL/SQL, Spring, Angular, TypeScript.
       For me code is a superpower that gave me the opportunity to build extraordinary things and I love this feeling.   
 
 
@@ -17,6 +17,8 @@
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
   <img align="center" alt="" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img align="center" alt="" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   
   
   
